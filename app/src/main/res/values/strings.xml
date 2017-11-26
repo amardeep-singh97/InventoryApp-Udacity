@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="dummy_data">Insert dummy data</string>
+    <string name="delete_all">Delete all data</string>
+    <string name="editorActivity">Add a Item</string>
+    <string name="editorActivity_name">Product Name</string>
+    <string name="editorActivity_price">Product Price</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="err_external_storage_permissions">Need permissions to get a product photo</string>
+    <string name="editorActivity_quantity">Product Qunatity</string>
+    <string name="editorActivity_mail">Supplier Email</string>
+    <string name="editorActivity_email">example@gmail.com</string>
+    <string name="editorActivity_photo">Select Photo</string>
+    <string name="show_product_price">PRICE: Rs/-</string>
+    <string name="sell_button">sell</string>
+    <string name="empty_view_text">Start adding some items to your inventory</string>
+    <string name="editor_menu_order">Order more</string>
+    <string name="editor_menu_delete">Delete</string>
+    <string name="editor_menu_save">Save item</string>
+    <string name="count_toast">You cannot have less then zero quantity</string>
+    <string name="itemProvider_insert_error">Unable to save Item</string>
+    <string name="itemProvider_insert_no_error">Item is saved</string>
+    <string name="delete_dialog_msg">Delete this Item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="Editor_name1">Add a Item</string>
+    <string name="Editor_name2">Edit Item</string>
+    <string name="error_del">Unable to delete item</string>
+    <string name="no_error_del">Item deleted</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="enter_items">enter all items</string>
+    <string name="click_here">Click Here</string>
+</resources>
